@@ -3,4 +3,4 @@
 ![](aadImages/flowchart.png)
 
 
-![](aadImages/psuedocode.JPG)
+![](aadImages/pseudocode.JPG)
